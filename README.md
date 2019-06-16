@@ -1,5 +1,5 @@
 # ConcOfFieldDemo
-自己用来研究 spring 实例变量线程安全性的demo
+自己用来研究 spring 实例变量线程安全性的demo，参考博客：https://blog.csdn.net/lililuni/article/details/92376523
 
 主要涉及：
 1. 单例模式和多例模式
